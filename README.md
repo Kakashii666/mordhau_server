@@ -1,29 +1,53 @@
-# Heading level 1 **Bolded text**
-## Heading level 2 **Bolded text**
-### Heading level 3 **Bolded text**
-#### Heading level 4 **Bolded text**
- 
-*H1 Example*
-**H2 Example**
-***H3 Example***
- 
-Example of **Bolded** text.
-Example of *Italicized* text.
- 
-<a id="Hyperlink example - Mordhau Discord">https://discord.gg/mordhau</>
- 
-1. Numbered
-2. List
-3. Support
-- Nested
-- Bulleted
-- List
-- Support
- 
-**Standalone**
-* Bulleted
-* List
-* Support
- 
-![Seymour](https://cdn.discordapp.com/attachments/288528119525146635/8907466
-48089722940/seymour-plush.jpg)
+# [EU] Kakashii666 1v1 Duels | No FFA
+
+> 💜 EU duel server focused on clean 1v1s. Respect your opponent and keep the arena tidy.
+
+## Quick Info
+- Region: EU
+- Mode: 1v1 Duels
+- Ruleset: No FFA, No Ranged, No Horses, No Toolbox, No Firepots
+- Peak Times: evenings CET
+- Recommended Ping: under 100 ms
+
+## How Duels Work
+1. Join the line and wait your turn.
+2. Step into an empty ring when free.
+3. **Start the duel with a Flourish:** press `X` then `1`. Your opponent does the same.
+4. Fight begins **after both** have flourished.
+5. Winner stays, next challenger steps in.
+
+### Starting a Duel (Flourish)
+- Face your opponent at a safe distance.
+- Press `X` → `1` to perform a **Flourish**.
+- Wait for your opponent to Flourish back.
+- No hits until both Flourishes are done. Then… fight! 🗡️
+
+## Rules
+1. No FFA. One fight per ring.
+2. Do not interfere with ongoing duels.
+3. No ranged, horses, catapults, firepots or toolbox.
+4. No spawn killing or griefing. No toxic chat or slurs.
+5. Respect line order. No cutting.
+6. No looting active fighters.
+7. Use common sense. Admins have final say.
+
+## Duel Etiquette
+- Always start with a **Flourish (X + 1)**; no surprise hits.
+- Heal up and re-equip outside the rings.
+- Return dropped gear after the duel.
+
+## Map Rotation
+- Arena style maps preferred for fair fights.
+- Requests welcome in chat.
+
+## Reports and Admins
+- If someone breaks rules, record a short clip and ping an admin.
+- Discord: [Join the Mordhau hub](https://discord.gg/mordhau)
+- In game: look for players with [ADMIN] tag.
+- Progressive actions: warn, kick, temp ban, ban.
+
+## Support The Server
+- Invite friends and be welcoming to new duelers.
+- Feedback is appreciated. Tag an admin or write in Discord.
+
+**Have fun and duel with honor.**
