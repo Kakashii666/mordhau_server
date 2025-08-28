@@ -1,13 +1,4 @@
-# [EU] Kakashii666 1v1 Duels | No FFA
-
-> 💜 EU duel server focused on clean 1v1s. Respect your opponent and keep the arena tidy.
-
-## Quick Info
-- Region: EU
-- Mode: 1v1 Duels
-- Ruleset: No FFA, No Ranged, No Horses, No Toolbox, No Firepots
-- Peak Times: evenings CET
-- Recommended Ping: under 100 ms
+> EU duel server focused on clean 1v1s.
 
 ## How Duels Work
 1. Join the line and wait your turn.
@@ -42,7 +33,7 @@
 
 ## Reports and Admins
 - If someone breaks rules, record a short clip and ping an admin.
-- Discord: [Join the Mordhau hub](https://discord.gg/mordhau)
+- Discord: <a id="Click To Join Discord">https://discord.gg/kakashii666</>
 - In game: look for players with [ADMIN] tag.
 - Progressive actions: warn, kick, temp ban, ban.
 
