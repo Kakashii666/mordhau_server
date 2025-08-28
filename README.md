@@ -1,6 +1,6 @@
 ### EU duel server focused on clean 1v1s.
 
-!https://i.ibb.co/JFvpT3SN/Welcome-banner.png
+![](https://i.ibb.co/JFvpT3SN/Welcome-banner.png)
 
 
 ## How Duels Work
