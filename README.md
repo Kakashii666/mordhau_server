@@ -1,4 +1,4 @@
-> EU duel server focused on clean 1v1s.
+### EU duel server focused on clean 1v1s.
 
 ## How Duels Work
 1. Join the line and wait your turn.
