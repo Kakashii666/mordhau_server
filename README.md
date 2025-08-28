@@ -1,6 +1,6 @@
 ### EU duel server focused on clean 1v1s.
 
-![Seymour](https://cdn.discordapp.com/attachments/288528119525146635/890746648089722940/seymour-plush.jpg)
+![Seymour]([https://cdn.discordapp.com/attachments/288528119525146635/890746648089722940/seymour-plush.jpg](https://ibb.co/mF9yKNPm))
 
 
 ## How Duels Work
