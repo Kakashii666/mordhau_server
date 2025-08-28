@@ -1,5 +1,8 @@
 ### EU duel server focused on clean 1v1s.
 
+![Seymour](https://cdn.discordapp.com/attachments/288528119525146635/890746648089722940/seymour-plush.jpg)
+
+
 ## How Duels Work
 1. Join the line and wait your turn.
 2. Step into an empty ring when free.
