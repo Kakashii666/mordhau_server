@@ -1,21 +1,18 @@
-### EU duel server focused on clean 1v1s.
-
-![](https://i.ibb.co/JFvpT3SN/Welcome-banner.png)
-
-
+![](https://i.ibb.co/j99c920d/Mordhau-Server-Banner.png)
 ## How Duels Work
-1. Join the line and wait your turn.
-2. Step into an empty ring when free.
-3. **Start the duel with a Flourish:** press `X` then `1`. Your opponent does the same.
-4. Fight begins **after both** have flourished.
-5. Winner stays, next challenger steps in.
-
+1. To challenge someone, walk up and **Flourish (X + 1)**.
+2. If they Flourish back, the duel begins **after both Flourishes are complete**.
+3. No interfering with an ongoing duel, don’t block, bump, or stand in the way.
+4. If you’re not dueling, stay clear of the active fight area.
+5. After the fight, heal and re-equip **outside the duel space**.
+![](https://i.ibb.co/chzZqtD7/Duel-Rules.png)
 ### Starting a Duel (Flourish)
 - Face your opponent at a safe distance.
 - Press `X` → `1` to perform a **Flourish**.
 - Wait for your opponent to Flourish back.
 - No hits until both Flourishes are done. Then… fight! 🗡️
 
+![](https://i.ibb.co/Gvm3b4Cm/Server-Rules.png)
 ## Rules
 1. No FFA. One fight per ring.
 2. Do not interfere with ongoing duels.
@@ -27,17 +24,19 @@
 
 ## Duel Etiquette
 - Always start with a **Flourish (X + 1)**; no surprise hits.
-- Heal up and re-equip outside the rings.
-- Return dropped gear after the duel.
+- Don’t block or interfere with ongoing duels.
+- Heal up and re-equip **away from active fights**.
+- If someone picks up a weapon you want back, point at it or ask — most players will realize and return it.
 
 ## Map Rotation
-- Arena style maps preferred for fair fights.
-- Requests welcome in chat.
+- At the end of each match, vote for one of the listed maps.  
+- Admins may change the map if chat requests something else or for better flow.  
 
+![](https://i.ibb.co/fzbm9wWr/Reports-Support.png)
 ## Reports and Admins
-- If someone breaks rules, record a short clip and ping an admin.
+- If someone breaks rules, record a short clip and open ticket on Discord.
 - Discord: <a id="Click To Join Discord">https://discord.gg/kakashii666</>
-- In game: look for players with [ADMIN] tag.
+- In game: look for players with [Admin] or [Mod] tag.
 - Progressive actions: warn, kick, temp ban, ban.
 
 ## Support The Server
