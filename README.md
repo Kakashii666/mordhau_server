@@ -1,3 +1,4 @@
+### [EU] 666 DuelYard | No FFA Allowed - 128 Tickrate-Heaven - Active Admins - Clean Duels
 ![](https://i.ibb.co/j99c920d/Mordhau-Server-Banner.png)
 ## How Duels Work
 1. To challenge someone, walk up and **Flourish (X + 1)**.
